@@ -1,0 +1,17 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "山田 花子",
+    "hourly_rate_yen": 1500
+  },
+  {
+    "employee_id": "E002",
+    "name": "佐藤 太郎",
+    "hourly_rate_yen": 1650
+  },
+  {
+    "employee_id": "E003",
+    "name": "鈴木 美咲",
+    "hourly_rate_yen": 1800
+  }
+]
